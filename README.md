@@ -1,7 +1,7 @@
 - 👋 Hi! Call me Mirai-ne ^_^, an electrical engineer by trade.
 - 👀 I’m interested in Python, automation, and machine learning
 - 🌱 I’m currently learning GUI using Qt for Python.
-- 💞️ Collaborations are welcome but I'm afraid I am still new to coding.
+- 💞️ Not yet open for collabs.
 - 📫 Reach me via Discord: mirainelaplace
 
 <!---
